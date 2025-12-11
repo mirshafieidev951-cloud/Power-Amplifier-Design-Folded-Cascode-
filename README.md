@@ -43,7 +43,7 @@ The amplifier drives the load with a clean sinusoidal wave without visible clipp
 
 ## 📄 Documentation
 For detailed design calculations, DC operating point analysis, and theoretical justification, please refer to the full report:
-[Download Project Report (PDF)](Docs/Project_Report.pdf)
+[Download Project Report (PDF)](Project_Report.pdf)
 
 ---
 *Designed as part of the Electronics II Course at Sharif University of Technology.*
